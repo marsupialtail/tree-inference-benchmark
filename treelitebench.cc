@@ -1,7 +1,7 @@
 #include <iostream>
 #include <chrono>
 #include <stdlib.h>
-#define LOOP 300
+#define LOOP 1000
 extern "C"
 {
 size_t get_num_feature(void);
